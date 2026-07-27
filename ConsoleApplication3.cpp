@@ -1,3 +1,4 @@
+//ĐỀ MINH HỌA THI TUYỂN SINH 10 ĐỒNG THÁP 2026-2025 (BÀI 1)
 #include <iostream>
 #include<cmath>
 using namespace std;

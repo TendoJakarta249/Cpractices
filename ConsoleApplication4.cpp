@@ -1,3 +1,5 @@
+//ĐỀ MINH HỌA THI TUYỂN SINH 10 ĐỒNG THÁP 2026-2025 (BÀI 2)
+#include <iostream>
 #include <iostream>
 #include <vector>
 #include <algorithm>
